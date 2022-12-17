@@ -5,7 +5,7 @@ let blur = 0;
 
 const int = setInterval(() => {
   blurring();
-}, 7);
+}, 30);
 
 function blurring() {
   blur++;

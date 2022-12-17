@@ -2,4 +2,4 @@
 
 Learned:
 CSS:
-1. background-size, background-positioon
+1. background-size, background-position
